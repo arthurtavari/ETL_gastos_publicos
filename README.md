@@ -1,3 +1,3 @@
 # Análise de Gastos Governo Federal
 ***
-![Deputados Background](gastos_publicos\img\topo.jpg)
+![Deputados Background](https://raw.githubusercontent.com/arthurtavari/gastos_publicos/master/img/topo.jpg)
