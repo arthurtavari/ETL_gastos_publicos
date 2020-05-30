@@ -1,6 +1,6 @@
 ![img](https://raw.githubusercontent.com/arthurtavari/portfolio_data_science/master/img/layout.jpg)
-# Projeto: 
-### Gastos Públicos Câmara dos Deputados
+# Projeto de Extração de Dados:
+### Gastos Públicos da Câmara dos Deputados
 O objetivo deste projeto é extrair os dados sobre gastos dos Deputados no período de 2019/2020 e criar uma base para que seja possível analisar e gerar insitghs. 
   <br>
   <br>
